@@ -11,7 +11,7 @@ Content-Type: text/html
 <head><style>plaintext{color: red !important;}</style></head>
 <body>
 <div style="color: blue !important;">
-THIS IS THE 1ST PART
+THIS IS THE 1ST PART 
 <plaintext>
 </body>
 </html>
