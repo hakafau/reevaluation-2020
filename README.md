@@ -1,5 +1,4 @@
 # Re-evaluation of Covert-Content-Attacks 
-## (in context of a thesis)
 
 In the year 2019 Müller, Brinkmann, Poddebniak, Schinzel and Schwenk published the paper [„Re: What’s Up Johnny?“](https://arxiv.org/pdf/1904.07550.pdf). They introduce covert content attacks against OpenPGP and S/MIME encryption and signatures in the context of e-mail. The attacks use the reply function of the E-Mail-Client as a backchannel. 
 
