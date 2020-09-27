@@ -11,3 +11,4 @@ About two years have passed since the tests were conducted. In the present thesi
 
 ## Re-evaluation
 
+![Re-evaluation of OpenPGP and S/MIME capable email clients](reevaluation.png)
