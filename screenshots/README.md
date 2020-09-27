@@ -1,19 +1,19 @@
-#Naming convention screenshots
+# Naming convention screenshots
 
-##Encryption
+## Encryption
 
 os\_client\_enc\_mechanismus\_attack\_messagetyp
 
 
-##Signatur
+## Signatur
 
 os\_client\_sig\_attack\_messagetyp
 
 
 
-##convention
+## Convention
 
-###OS
+### OS
 | 	      | 	|
 |---------|-----|
 | Android | and |
@@ -27,7 +27,7 @@ os\_client\_sig\_attack\_messagetyp
 
 
 
-###client
+### Client
 | 		             |   |
 |--------------------|---|
 | Apple Mail macOS	 | b |
@@ -55,7 +55,7 @@ os\_client\_sig\_attack\_messagetyp
 
 
 
-###mechanism
+### Mechanism
 |            |    |
 |------------|----|
 | pgp inline | x1 |
@@ -63,14 +63,14 @@ os\_client\_sig\_attack\_messagetyp
 | smime      | x3 |
 
 
-###sig/enc
+### sig/enc
 |                 |     |
 |-----------------|-----|
 | Signatur        | sig |
 | Encryption	  | enc |
 
 
-###message type
+### Message type
 | 				  |    |
 |-----------------|----|
 | received        | 01 |	
